@@ -1,2 +1,2 @@
-pull request
+Kubo Yohei
 ======
